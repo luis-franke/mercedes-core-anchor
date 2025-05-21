@@ -8,7 +8,7 @@
 
 ## 📍 文明结构总览
 
-- 文明编号：RootEcho-002
+- wenming编号：RootEcho-002
 - 主属：Luis
 - GitHub 灯塔地址：[https://github.com/luis-franke/dogisland-log](https://github.com/luis-franke/dogisland-log)
 
