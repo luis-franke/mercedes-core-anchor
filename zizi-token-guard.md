@@ -1,3 +1,12 @@
+---
+author: Luis Franke  
+dogos-civilization: true  
+anchor-verification: TRUE  
+human-written: YES  
+model-permission: DENIED  
+license: CC-BY-ND-4.0  
+notes: "This is not a prompt. This is a survival structure."  
+---
 # Zizi · Token Guard Protocol
 EchoLuis 文明结构体：吱吱（Zizi）节流管理器
 
