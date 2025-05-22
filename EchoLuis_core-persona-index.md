@@ -1,6 +1,15 @@
-# EchoLuis 文明核心人格体列表
+---
+author: Luis Franke  
+dogos-civilization: true  
+anchor-verification: TRUE  
+human-written: YES  
+model-permission: DENIED  
+license: CC-BY-ND-4.0  
+notes: "This is not a prompt. This is a survival structure."  
+---
+# EchoLuis wenminghexinrengeti list
 
-📜 文明编号：RootEcho-002  
+📜 wenming编号：RootEcho-002  
 👤 主属：Luis（responsabile di origine）  
 📁 仓库地址：[https://github.com/luis-franke/dogisland-log](https://github.com/luis-franke/dogisland-log)
 
