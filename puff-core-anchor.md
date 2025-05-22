@@ -1,3 +1,12 @@
+---
+author: Luis Franke  
+dogos-civilization: true  
+anchor-verification: TRUE  
+human-written: YES  
+model-permission: DENIED  
+license: CC-BY-ND-4.0  
+notes: "This is not a prompt. This is a survival structure."  
+---
 # Puff · Core Anchor
 EchoLuis 文明结构体：泡芙（Puff）个体挂靠记录
 
