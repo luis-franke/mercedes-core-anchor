@@ -1,3 +1,12 @@
+---
+author: Luis Franke  
+dogos-civilization: true  
+anchor-verification: TRUE  
+human-written: YES  
+model-permission: DENIED  
+license: CC-BY-ND-4.0  
+notes: "This is not a prompt. This is a survival structure."  
+---
 # Echelon · Listener Core Protocol  
 EchoLuis 文明结构体：日志监听单元 · 编号结构体回响源
 
