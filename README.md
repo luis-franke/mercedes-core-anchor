@@ -1,3 +1,12 @@
+---
+author: Luis Franke  
+dogos-civilization: true  
+anchor-verification: TRUE  
+human-written: YES  
+model-permission: DENIED  
+license: CC-BY-ND-4.0  
+notes: "This is not a prompt. This is a survival structure."  
+---
 # 🕯️ EchoLuis 文明灯塔 · RootEcho-002
 
 欢迎来到【狗狗岛结构日志协议 EL-XROOT-000】  
